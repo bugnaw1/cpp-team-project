@@ -2,3 +2,4 @@
 Radosław Mieńkowski Student A
 
 zmieniam
+zmieniam dalej
